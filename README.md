@@ -1,5 +1,19 @@
 # lab06-proceduralFace
 
+## My Submission
+
+SURPRISE = 1.0 for Task 1
+
+![SURPRISE](./SURPRISE.png)
+
+selfParam = 1.0 for Task 2, a procedural face
+
+![selfParam](./selfParam.gif)
+
+SADNESS = 1.0 for Extra Credit
+
+![SADNESS](./SADNESS.png)
+
 Let's practice parameterization! We'll be starting with an oh-so-beautiful gingerbread man face that looks like this:
 ![image](https://github.com/user-attachments/assets/4707eb0a-b25e-4eda-84e3-3bb336981781)
 
