@@ -2,6 +2,8 @@
 
 ## My Submission
 
+[shader toy solution](https://www.shadertoy.com/view/33jBWK)
+
 SURPRISE = 1.0 for Task 1
 
 ![SURPRISE](./SURPRISE.png)
